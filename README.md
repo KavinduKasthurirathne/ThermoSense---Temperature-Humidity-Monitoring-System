@@ -1,12 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/qcBiLqSF)
-Please go under edit and edit this file as needed for your project
-
-# Team Name - ThermoSense
-## Project Group - 2024-01
-### Group Leader - IT21077692 - Kasthurirathne K.K.I (KavinduKasthurirathne)
-### Member 2 - IT21044922 - Thilakarathne M.A.M.V (IT21044922Minindu)
-### Member 3 - IT20229016 - Weerasinghe C.C (IT20229016)
-### Member 4 - IT21016066 - Samaraweera G.P.M.D (MinuliSamaraweera)
+## ThermoSense - Temperature & Humidity Monitoring System
+### Group Leader - Kavindu Kasthurirathne
+### Member 2 - Minindu Thilakarathne
+### Member 3 - Chehan Weerasinghe
+### Member 4 - Minuli Samaraweera
 
 
 ## Brief Description of your Solution - 
